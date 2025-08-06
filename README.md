@@ -22,31 +22,24 @@
 
 ---
 
-## 📂 Featured Projects
+## 📈 My GitHub Stats 🚀 
 
-| Project                        | Description                            | Tech Stack         |
-|-------------------------------|----------------------------------------|--------------------|
-| [**SpringBootProject**](https://github.com/muskan-sheikh/SpringBootProject)           | Basics of Spring for learning           | HTML, Java, Spring Boot |
-| [**React-Project**](https://github.com/muskan-sheikh/React-Project)                 | Frontend project with React             | JavaScript, React |
-| [**react-java**](https://github.com/muskan-sheikh/react-java)                       | Full-stack integration                  | Java, React |
-| [**microservice**](https://github.com/muskan-sheikh/microservice)                   | Microservice architecture               | Java, Spring Boot |
-| [**restaurant-app-react**](https://github.com/muskan-sheikh/restaurant-app-react)   | UI for restaurant app                   | React, CSS |
-| [**springboot-microservices**](https://github.com/muskan-sheikh/springboot-microservices) | Real-world microservice example         | Java, Spring Boot |
+<div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=muskan-sheikh&show_icons=true&theme=react&hide_title=false&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github" width="420" height="180" alt="GitHub Stats" />
+    <br/>
+  </div>  
+</div>
 
 ---
 
-## 📊 My GitHub Stats & Languages 🚀🧠🧩
-
-<br/>
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan-sheikh&show_icons=true&theme=react&hide_title=false&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github" width="420" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-sheikh&layout=compact&theme=react&hide_title=false&border_radius=10" width="420" height="180" alt="Top Languages" />
+## 💻 Most Used Languages 🌐
+<div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-sheikh&layout=compact&theme=react&hide_title=false&border_radius=10" width="420" height="180" alt="Top Languages" />
+    <br/>
+  </div>
 </div>
-<br/>
-
 
 ---
 
@@ -76,8 +69,7 @@
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm4yb2kzMHV0NHh0ZzRheXlmb2MwaWEyeWtqcmI5NmhpOWYyOTNyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjFoY2h6NzZuanFpbWE4YzRscjlsbmhldW5uZGVuem4xOTdubG4wMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" width="300" />
 </p>
 
 ---
