@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Muskan Sheikh!
 
-![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Header](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c3bm94ams1cmdlZGtsZXEzNTk3cmxtN2h4Nmp5ZTMwMDNjMHplcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif)
+
 
 ### 💼 Full-Stack Developer | 3.5+ Years of Experience  
 #### ⚙️ Java Backend | ⚛️ React Frontend | ☁️ Microservices | 🔁 CI/CD Automation
@@ -34,13 +35,18 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 My GitHub Stats & Languages 🚀🧠🧩
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan-sheikh&show_icons=true&theme=react" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-sheikh&layout=compact&theme=react" alt="Top Languages" />
-</p>
+<br/>
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan-sheikh&show_icons=true&theme=react&hide_title=false&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github" width="420" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-sheikh&layout=compact&theme=react&hide_title=false&border_radius=10" width="420" height="180" alt="Top Languages" />
+</div>
+<br/>
+
 
 ---
 
@@ -69,7 +75,7 @@
 ## 💡 Fun Developer Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm4yb2kzMHV0NHh0ZzRheXlmb2MwaWEyeWtqcmI5NmhpOWYyOTNyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
 </p>
